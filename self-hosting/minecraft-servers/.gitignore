@@ -1,2 +1,6 @@
-whitelist.json
-
+worlds-list
+**/libraries
+**/whitelist.json
+**/logs
+**/ops.json
+**/usercache.json
