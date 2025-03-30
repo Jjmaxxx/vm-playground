@@ -4,3 +4,5 @@ worlds-list
 **/logs
 **/ops.json
 **/usercache.json
+**/server.jar
+**/versions
